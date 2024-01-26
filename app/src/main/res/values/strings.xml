@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test Apps</string>
+    <string name="headline_text">Let\'s meet our summer coffee drinks</string>
+    <string name="headline_desc">Lorem ipsum dolor sit amet, consectetur adispicing elit, sed do eiusmod</string>
+    <string name="next_page_btn_text">GET STARTED</string>
+    <string name="guide_title_text">Bilangan Prima</string>
+    <string name="guide_title_desc">Masukan angka untuk menghasilkan bilangan prima</string>
+    <string name="input_number_label">Input Angka</string>
+    <string name="generate_button_text">GENERATE BILANGAN PRIMA</string>
+</resources>
